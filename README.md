@@ -1,7 +1,6 @@
 # FPGA-project-using-Vivado-and-VHDL
-The code is a requirement for a lab work that introduces us to the Vivado software and VHDL programming. 
+The project introduces us to VHDL programming writen using the Vivado Software. The code is used to build and test the following circuit using Vivado and VHDL programming.  
 
-The code is used to build and test the following circuit using the Vivado software and VHDL programming. 
 ![IMG_8763](https://github.com/jaberhuda901/FPGA-project-using-Vivado-and-VHDL/assets/79273239/949a8e61-b43e-4d74-bb78-2031c82b8895)
 
 ###  Learning Goals of the project 
