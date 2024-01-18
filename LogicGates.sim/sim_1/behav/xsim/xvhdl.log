@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jaberulhuda/Desktop/SYSC_3320_LAB_1/LogicGates/LogicGates.srcs/sources_1/new/LogicGates.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'LogicGates'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jaberulhuda/Desktop/SYSC_3320_LAB_1/LogicGates/LogicGates.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testbench'
